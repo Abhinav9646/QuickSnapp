@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079800411115",
+    "project_id": "quicksnapp-2a929",
+    "storage_bucket": "quicksnapp-2a929.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079800411115:android:67a283aa98f6990cb29fae",
+        "android_client_info": {
+          "package_name": "com.quicksnapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR_VwMaIm3KqN7tgzEx9oD9t69BnGAnas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
